@@ -1,0 +1,3 @@
+## Mis configuraciones de Nvim
+
+<p>Al parecer se me va a dar por utilizar algo un poco mas divertido para programar que es la terminal asi que esta es una configuracion que cogi en parte de otra persona asi que de antemano, perdon por no configurar por mi cuenta pero queria una base para comenzar, ademas en un futuro no muy lejano..... el furuto no muy lejano ya esta aqui jajjajajaja, porfin arregle el problema de mi pc de pruebas pero ya no sera de pruebas si no de linux en fin ahora me resta instalar nvim en linux y configurar y aprenderlo asi que esta configuracion probablemente la cambie.</p>
